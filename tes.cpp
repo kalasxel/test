@@ -1,7 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main(int argc, char** argv)
 {{
-  std::cout << "Hello, World of Git!" << std::endl;
+  cout << "Hello, World of Git!" << endl;
   return 0;
 }}
